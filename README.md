@@ -25,8 +25,8 @@ events. The project aim is to build a Natural Language Processing (NLP) model
 This project is divided in the following key sections:
 
 1. Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB
-2. Build a machine learning pipeline to train the which can classify text message in various categories
-3. Run a web app which can show model results in real time
+2. Build a machine learning pipeline to train the models which can classify text message in various categories
+3. Web app using Flask deployed on Heroku(PaaS) which can assign the given text to the related categories in real time.
 
 <a name="getting_started"></a>
 ## Getting Started
